@@ -4,8 +4,6 @@
 ### Bring Offline Databases Online Before Backup
 **发布-日期: 2014年04月23日 (评论)**
 
-![#](images/image0012.png?raw=true "#")
-
 ## Contents
 
 - [中文](#中文)
